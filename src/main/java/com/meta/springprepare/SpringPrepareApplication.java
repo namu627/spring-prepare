@@ -9,6 +9,8 @@ public class SpringPrepareApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringPrepareApplication.class, args);
         System.out.println("Hello SpringBoot!");
+        System.out.println("HI");
     }
 
 }
+
