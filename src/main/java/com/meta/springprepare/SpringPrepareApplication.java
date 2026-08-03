@@ -8,8 +8,7 @@ public class SpringPrepareApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringPrepareApplication.class, args);
-        System.out.println("Hello SpringBoot!");
-        System.out.println("HI");
+        System.out.println("보드 기능 구현");
     }
 
 }
